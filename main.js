@@ -71,6 +71,7 @@ const cat = add([
 
     
 ])
+  
 
 
 //can jump only when on ground/double jump seems to work!
