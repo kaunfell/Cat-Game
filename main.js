@@ -60,7 +60,7 @@ loadSprite("cat", "./resurssit/kuvat/catwalk_nobg.gif");
 loadSprite("catjump", "./resurssit/kuvat/catjump.png")
 loadSprite("catland", "./resurssit/kuvat/catland.png" )
 loadSprite("catAll", "./resurssit/kuvat/catAll.png" )
-loadSound("meow", "./resurssit/sounds/meow.ogg")
+loadSound("meow", "./resurssit/sounds/meow2.mp3")
 
 //player
 const cat = add([
